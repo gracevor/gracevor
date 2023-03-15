@@ -1,9 +1,7 @@
-/*simple one*/
-.simple {
-  background-color: black;
-  color: white;
-  font-family: Arial;
 }
 
-/* complicated one */
-/*https://codepen.io/naomi789/pen/abaYRWx*/
+.simple {
+  background-color: #E37383;
+  color: #FF7518;
+  font-family: heletica;
+}
